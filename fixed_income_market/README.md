@@ -7,3 +7,10 @@ The fixed income market refers to the market in which investors give out loans t
 - Cash flow modeling
 - Determination of the present value of cash flows
 - Modeling and valuation of bonds.
+
+### Here are some of the most important concepts about fixed income investment:
+- Interest rate
+- Principal
+- Compound interest
+- Continuous compounding
+- Present value
