@@ -18,7 +18,9 @@ private:
 };
 
 inline double IntRateCalculator::singlePeriod(double value) {
-	double f = value * (1 + this->m_rate);
+	// year income
+	double rateDecimal = m_rate / 100.0;
+	double f = value * (1 + rateDecimal);
 	return f;
 }
 
